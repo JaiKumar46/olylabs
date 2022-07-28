@@ -1,5 +1,5 @@
 .AllVotes{
-    height: 15rem;
+    height: auto;
     width: 98%;
     background-color: #212121;
     position: relative;
@@ -15,3 +15,17 @@ h2{
     font-weight: bold;
 }
 
+table{
+    height: 50vh;
+    width: 100%;
+    position: relative;
+    
+
+}
+thead tr th{
+    color: #39FF14;
+}
+table tr td{
+    color: white;
+    text-align: center;
+}
