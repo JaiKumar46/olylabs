@@ -1,0 +1,45 @@
+.navbar{
+    height: 10vh;
+    width: 98%;
+    background-color: #212121;
+   position: relative;
+   left: 1%;
+   top: 15px;
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+   
+   color: white;
+}
+
+.logo h1{
+    font-size: 23px;
+    position: relative;
+    top: 20%;
+}
+.Auth ul{
+    display: flex;
+    font-size: 23px;
+    position: relative;
+    top: 20%;
+    right: 5%;
+    list-style: none;
+    justify-content: space-between;
+}
+.list{
+    position: relative;
+    right: 30%;
+}
+
+.active{
+    color: #39FF14;
+    
+}
+
+.border{
+    border-bottom: #39FF14 1px solid;
+    position: relative;
+    top: 60%;
+    left: 10%;
+    width: 80px;
+}
