@@ -1,5 +1,7 @@
 import React from 'react'
+import AllVotes from './allvotes/AllVotes'
 import Form from './Form/Form'
+import LeaderBoard from './leader/LeaderBoard'
 import Navbar from './navbar/Navbar'
 import Sec from './sec/Sec'
 
@@ -13,6 +15,8 @@ const Home = () => {
         <Navbar/>
         <Sec/>
         <Form/>
+        <AllVotes allVotes={allVotes}/>
+        <LeaderBoard/>
     </div>
   )
 }

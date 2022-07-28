@@ -1,0 +1,16 @@
+.AllVotes{
+    height: 23rem;
+    width: 45%;
+    background-color: #212121;
+    position: relative;
+    left: 53.5%;
+    bottom: 19rem;
+}
+h2{
+    color: #39FF14;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+}
+
