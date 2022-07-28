@@ -1,10 +1,11 @@
 .AllVotes{
-    height: 23rem;
-    width: 45%;
+    height: 15rem;
+    width: 95%;
     background-color: #212121;
     position: relative;
-    left: 53.5%;
-    bottom: 19rem;
+    left: 2.5%;
+    top: 6rem;
+   
 }
 h2{
     color: #39FF14;
