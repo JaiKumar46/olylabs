@@ -1,8 +1,10 @@
 import React from 'react'
-
+import "./leader.css"
 const LeaderBoard = () => {
   return (
-    <div>LeaderBoard</div>
+    <div className="leaderboard">
+        <h2>Leaderboard</h2>
+        </div>
   )
 }
 
